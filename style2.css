@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+li{
+    color:darkmagenta;
+    background-color: gold;
+}
+a:hover{
+    color: brown;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    box-shadow: firebrick 9px 5px 60px 4px;
+}
